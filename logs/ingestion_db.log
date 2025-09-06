@@ -1,0 +1,314 @@
+2025-07-27 01:59:36,961 - INFO - Ingesting file: begin_inventory.csv
+2025-07-27 01:59:36,961 - INFO - Started ingesting `begin_inventory` from C:\\Users\\Hp\\Desktop\\nvendor\\data\begin_inventory.csv
+2025-07-27 01:59:39,548 - INFO - \u2705 Completed: begin_inventory
+2025-07-27 01:59:39,549 - INFO - Ingesting file: end_inventory.csv
+2025-07-27 01:59:39,550 - INFO - Started ingesting `end_inventory` from C:\\Users\\Hp\\Desktop\\nvendor\\data\end_inventory.csv
+2025-07-27 01:59:42,733 - INFO - \u2705 Completed: end_inventory
+2025-07-27 01:59:42,734 - INFO - Ingesting file: purchases.csv
+2025-07-27 01:59:42,735 - INFO - Started ingesting `purchases` from C:\\Users\\Hp\\Desktop\\nvendor\\data\purchases.csv
+2025-07-27 02:00:30,802 - INFO - \u2705 Completed: purchases
+2025-07-27 02:00:30,806 - INFO - Ingesting file: purchase_prices.csv
+2025-07-27 02:00:30,806 - INFO - Started ingesting `purchase_prices` from C:\\Users\\Hp\\Desktop\\nvendor\\data\purchase_prices.csv
+2025-07-27 02:00:30,971 - INFO - \u2705 Completed: purchase_prices
+2025-07-27 02:00:30,972 - INFO - Ingesting file: sales.csv
+2025-07-27 02:00:30,972 - INFO - Started ingesting `sales` from C:\\Users\\Hp\\Desktop\\nvendor\\data\sales.csv
+2025-07-27 02:04:23,919 - INFO - \u2705 Completed: sales
+2025-07-27 02:04:23,919 - INFO - Ingesting file: vendor_invoice.csv
+2025-07-27 02:04:23,919 - INFO - Started ingesting `vendor_invoice` from C:\\Users\\Hp\\Desktop\\nvendor\\data\vendor_invoice.csv
+2025-07-27 02:04:24,012 - INFO - \u2705 Completed: vendor_invoice
+2025-07-27 02:04:24,012 - INFO - ----------Ingestion complete----------
+2025-07-27 02:04:24,013 - INFO - Total Time Taken: 4.78 minutes
+2025-07-27 02:04:47,502 - INFO - Ingesting file: begin_inventory.csv
+2025-07-27 02:04:47,502 - INFO - Started ingesting `begin_inventory` from C:\\Users\\Hp\\Desktop\\nvendor\\data\begin_inventory.csv
+2025-07-27 02:04:50,050 - INFO - \u2705 Completed: begin_inventory
+2025-07-27 02:04:50,051 - INFO - Ingesting file: end_inventory.csv
+2025-07-27 02:04:50,051 - INFO - Started ingesting `end_inventory` from C:\\Users\\Hp\\Desktop\\nvendor\\data\end_inventory.csv
+2025-07-27 02:04:53,006 - INFO - \u2705 Completed: end_inventory
+2025-07-27 02:04:53,007 - INFO - Ingesting file: purchases.csv
+2025-07-27 02:04:53,007 - INFO - Started ingesting `purchases` from C:\\Users\\Hp\\Desktop\\nvendor\\data\purchases.csv
+2025-07-27 02:05:40,794 - INFO - \u2705 Completed: purchases
+2025-07-27 02:05:40,797 - INFO - Ingesting file: purchase_prices.csv
+2025-07-27 02:05:40,798 - INFO - Started ingesting `purchase_prices` from C:\\Users\\Hp\\Desktop\\nvendor\\data\purchase_prices.csv
+2025-07-27 02:05:41,014 - INFO - \u2705 Completed: purchase_prices
+2025-07-27 02:05:41,015 - INFO - Ingesting file: sales.csv
+2025-07-27 02:05:41,015 - INFO - Started ingesting `sales` from C:\\Users\\Hp\\Desktop\\nvendor\\data\sales.csv
+2025-07-27 02:09:43,930 - INFO - \u2705 Completed: sales
+2025-07-27 02:09:43,931 - INFO - Ingesting file: vendor_invoice.csv
+2025-07-27 02:09:43,931 - INFO - Started ingesting `vendor_invoice` from C:\\Users\\Hp\\Desktop\\nvendor\\data\vendor_invoice.csv
+2025-07-27 02:09:44,021 - INFO - \u2705 Completed: vendor_invoice
+2025-07-27 02:09:44,021 - INFO - ----------Ingestion complete----------
+2025-07-27 02:09:44,021 - INFO - Total Time Taken: 4.94 minutes
+2025-07-27 12:58:01,783 - INFO - Ingesting file: begin_inventory.csv
+2025-07-27 12:58:01,784 - INFO - Started ingesting `begin_inventory` from C:\\Users\\Hp\\Desktop\\nvendor\\data\begin_inventory.csv
+2025-07-27 12:58:04,436 - INFO - \u2705 Completed: begin_inventory
+2025-07-27 12:58:04,437 - INFO - Ingesting file: end_inventory.csv
+2025-07-27 12:58:04,438 - INFO - Started ingesting `end_inventory` from C:\\Users\\Hp\\Desktop\\nvendor\\data\end_inventory.csv
+2025-07-27 12:58:07,665 - INFO - \u2705 Completed: end_inventory
+2025-07-27 12:58:07,667 - INFO - Ingesting file: purchases.csv
+2025-07-27 12:58:07,667 - INFO - Started ingesting `purchases` from C:\\Users\\Hp\\Desktop\\nvendor\\data\purchases.csv
+2025-07-27 12:59:01,231 - INFO - \u2705 Completed: purchases
+2025-07-27 12:59:01,236 - INFO - Ingesting file: purchase_prices.csv
+2025-07-27 12:59:01,236 - INFO - Started ingesting `purchase_prices` from C:\\Users\\Hp\\Desktop\\nvendor\\data\purchase_prices.csv
+2025-07-27 12:59:01,490 - INFO - \u2705 Completed: purchase_prices
+2025-07-27 12:59:01,491 - INFO - Ingesting file: sales.csv
+2025-07-27 12:59:01,491 - INFO - Started ingesting `sales` from C:\\Users\\Hp\\Desktop\\nvendor\\data\sales.csv
+2025-07-27 13:02:58,139 - INFO - \u2705 Completed: sales
+2025-07-27 13:02:58,140 - INFO - Ingesting file: vendor_invoice.csv
+2025-07-27 13:02:58,140 - INFO - Started ingesting `vendor_invoice` from C:\\Users\\Hp\\Desktop\\nvendor\\data\vendor_invoice.csv
+2025-07-27 13:02:58,229 - INFO - \u2705 Completed: vendor_invoice
+2025-07-27 13:02:58,230 - INFO - ----------Ingestion complete----------
+2025-07-27 13:02:58,230 - INFO - Total Time Taken: 4.94 minutes
+2025-07-27 13:11:33,767 - INFO - Creating vendor summary table...
+2025-07-27 13:12:17,671 - INFO - 
+   VendorNumber                   VendorName  Brand              Description  \
+0          1128  BROWN-FORMAN CORP             1233  Jack Daniels No 7 Black   
+1          4425        MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035  PERNOD RICARD USA             8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC      4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC      3545          Ketel One Vodka   
+
+   PurchasePrice  Actualprice Volume  Totalpurchasequan  Totalpurchasedoll  \
+0          26.27        36.99   1750             145080         3811251.60   
+1          23.19        28.99   1750             164038         3804041.22   
+2          18.24        24.99   1750             187407         3418303.68   
+3          16.17        22.99   1750             201682         3261197.94   
+4          21.89        29.99   1750             138109         3023206.01   
+
+   totalsalequantity  totalsalesdoll  totalsaleprice  totalsaleexcise  \
+0           142049.0      5101919.51       672819.31        260999.20   
+1           160247.0      4819073.49       561512.37        294438.66   
+2           187140.0      4538120.60       461140.15        343854.07   
+3           200412.0      4475972.88       420050.01        368242.80   
+4           135838.0      4223107.62       545778.28        249587.83   
+
+   freightcost  
+0     68601.68  
+1    144929.24  
+2    123780.22  
+3    257032.07  
+4    257032.07  
+2025-07-27 13:12:17,672 - INFO - Cleaning data...
+2025-07-27 13:12:17,688 - INFO - 
+   VendorNumber                VendorName  Brand              Description  \
+0          1128         BROWN-FORMAN CORP   1233  Jack Daniels No 7 Black   
+1          4425     MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035         PERNOD RICARD USA   8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC   4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC   3545          Ketel One Vodka   
+
+   PurchasePrice  Actualprice  Volume  Totalpurchasequan  Totalpurchasedoll  \
+0          26.27        36.99  1750.0             145080         3811251.60   
+1          23.19        28.99  1750.0             164038         3804041.22   
+2          18.24        24.99  1750.0             187407         3418303.68   
+3          16.17        22.99  1750.0             201682         3261197.94   
+4          21.89        29.99  1750.0             138109         3023206.01   
+
+   totalsalequantity  totalsalesdoll  totalsaleprice  totalsaleexcise  \
+0           142049.0      5101919.51       672819.31        260999.20   
+1           160247.0      4819073.49       561512.37        294438.66   
+2           187140.0      4538120.60       461140.15        343854.07   
+3           200412.0      4475972.88       420050.01        368242.80   
+4           135838.0      4223107.62       545778.28        249587.83   
+
+   freightcost  Grossprofit  Profitmargin  Stockturnover  Saletopurchaseratio  
+0     68601.68   1290667.91     25.297693       0.979108             1.338647  
+1    144929.24   1015032.27     21.062810       0.976890             1.266830  
+2    123780.22   1119816.92     24.675786       0.998575             1.327594  
+3    257032.07   1214774.94     27.139908       0.993703             1.372493  
+4    257032.07   1199901.61     28.412764       0.983556             1.396897  
+2025-07-27 13:12:17,688 - INFO - Ingesting data...
+2025-07-27 13:12:17,696 - INFO - Started ingesting `vendor_sales_summary` from        VendorNumber                VendorName  Brand  \
+0              1128         BROWN-FORMAN CORP   1233   
+1              4425     MARTIGNETTI COMPANIES   3405   
+2             17035         PERNOD RICARD USA   8068   
+3              3960  DIAGEO NORTH AMERICA INC   4261   
+4              3960  DIAGEO NORTH AMERICA INC   3545   
+...             ...                       ...    ...   
+10687          9815            WINE GROUP INC   8527   
+10688          8004            SAZERAC CO INC   5683   
+10689          3924  HEAVEN HILL DISTILLERIES   9123   
+10690          3960  DIAGEO NORTH AMERICA INC   6127   
+10691          7245      PROXIMO SPIRITS INC.   3065   
+
+                       Description  PurchasePrice  Actualprice  Volume  \
+0          Jack Daniels No 7 Black          26.27        36.99  1750.0   
+1            Tito's Handmade Vodka          23.19        28.99  1750.0   
+2                 Absolut 80 Proof          18.24        24.99  1750.0   
+3           Capt Morgan Spiced Rum          16.17        22.99  1750.0   
+4                  Ketel One Vodka          21.89        29.99  1750.0   
+...                            ...            ...          ...     ...   
+10687  Concannon Glen Ellen Wh Zin           1.32         4.99   750.0   
+10688  Dr McGillicuddy's Apple Pie           0.39         0.49    50.0   
+10689              Deep Eddy Vodka           0.74         0.99    50.0   
+10690  The Club Strawbry Margarita           1.47         1.99   200.0   
+10691     Three Olives Grape Vodka           0.71         0.99    50.0   
+
+       Totalpurchasequan  Totalpurchasedoll  totalsalequantity  \
+0                 145080         3811251.60           142049.0   
+1                 164038         3804041.22           160247.0   
+2                 187407         3418303.68           187140.0   
+3                 201682         3261197.94           200412.0   
+4                 138109         3023206.01           135838.0   
+...                  ...                ...                ...   
+10687                  2               2.64                5.0   
+10688                  6               2.34              134.0   
+10689                  2               1.48                2.0   
+10690                  1               1.47               72.0   
+10691                  1               0.71               86.0   
+
+       totalsalesdoll  totalsaleprice  totalsaleexcise  freightcost  \
+0          5101919.51       672819.31        260999.20     68601.68   
+1          4819073.49       561512.37        294438.66    144929.24   
+2          4538120.60       461140.15        343854.07    123780.22   
+3          4475972.88       420050.01        368242.80    257032.07   
+4          4223107.62       545778.28        249587.83    257032.07   
+...               ...             ...              ...          ...   
+10687           15.95           10.96             0.55     27100.41   
+10688           65.66            1.47             7.04     50293.62   
+10689            1.98            0.99             0.10     14069.87   
+10690          143.28           77.61            15.12    257032.07   
+10691           85.14           33.66             4.46     38994.78   
+
+       Grossprofit  Profitmargin  Stockturnover  Saletopurchaseratio  
+0       1290667.91     25.297693       0.979108             1.338647  
+1       1015032.27     21.062810       0.976890             1.266830  
+2       1119816.92     24.675786       0.998575             1.327594  
+3       1214774.94     27.139908       0.993703             1.372493  
+4       1199901.61     28.412764       0.983556             1.396897  
+...            ...           ...            ...                  ...  
+10687        13.31     83.448276       2.500000             6.041667  
+10688        63.32     96.436186      22.333333            28.059829  
+10689         0.50     25.252525       1.000000             1.337838  
+10690       141.81     98.974037      72.000000            97.469388  
+10691        84.43     99.166079      86.000000           119.915493  
+
+[10692 rows x 18 columns]
+2025-07-27 13:12:17,696 - ERROR - \u274c Error ingesting vendor_sales_summary: argument of type 'method' is not iterable
+2025-07-27 13:12:17,696 - INFO - Completed
+2025-07-27 13:14:04,885 - INFO - Creating vendor summary table...
+2025-07-27 13:14:47,988 - INFO - 
+   VendorNumber                   VendorName  Brand              Description  \
+0          1128  BROWN-FORMAN CORP             1233  Jack Daniels No 7 Black   
+1          4425        MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035  PERNOD RICARD USA             8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC      4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC      3545          Ketel One Vodka   
+
+   PurchasePrice  Actualprice Volume  Totalpurchasequan  Totalpurchasedoll  \
+0          26.27        36.99   1750             145080         3811251.60   
+1          23.19        28.99   1750             164038         3804041.22   
+2          18.24        24.99   1750             187407         3418303.68   
+3          16.17        22.99   1750             201682         3261197.94   
+4          21.89        29.99   1750             138109         3023206.01   
+
+   totalsalequantity  totalsalesdoll  totalsaleprice  totalsaleexcise  \
+0           142049.0      5101919.51       672819.31        260999.20   
+1           160247.0      4819073.49       561512.37        294438.66   
+2           187140.0      4538120.60       461140.15        343854.07   
+3           200412.0      4475972.88       420050.01        368242.80   
+4           135838.0      4223107.62       545778.28        249587.83   
+
+   freightcost  
+0     68601.68  
+1    144929.24  
+2    123780.22  
+3    257032.07  
+4    257032.07  
+2025-07-27 13:14:47,988 - INFO - Cleaning data...
+2025-07-27 13:14:48,008 - INFO - 
+   VendorNumber                VendorName  Brand              Description  \
+0          1128         BROWN-FORMAN CORP   1233  Jack Daniels No 7 Black   
+1          4425     MARTIGNETTI COMPANIES   3405    Tito's Handmade Vodka   
+2         17035         PERNOD RICARD USA   8068         Absolut 80 Proof   
+3          3960  DIAGEO NORTH AMERICA INC   4261   Capt Morgan Spiced Rum   
+4          3960  DIAGEO NORTH AMERICA INC   3545          Ketel One Vodka   
+
+   PurchasePrice  Actualprice  Volume  Totalpurchasequan  Totalpurchasedoll  \
+0          26.27        36.99  1750.0             145080         3811251.60   
+1          23.19        28.99  1750.0             164038         3804041.22   
+2          18.24        24.99  1750.0             187407         3418303.68   
+3          16.17        22.99  1750.0             201682         3261197.94   
+4          21.89        29.99  1750.0             138109         3023206.01   
+
+   totalsalequantity  totalsalesdoll  totalsaleprice  totalsaleexcise  \
+0           142049.0      5101919.51       672819.31        260999.20   
+1           160247.0      4819073.49       561512.37        294438.66   
+2           187140.0      4538120.60       461140.15        343854.07   
+3           200412.0      4475972.88       420050.01        368242.80   
+4           135838.0      4223107.62       545778.28        249587.83   
+
+   freightcost  Grossprofit  Profitmargin  Stockturnover  Saletopurchaseratio  
+0     68601.68   1290667.91     25.297693       0.979108             1.338647  
+1    144929.24   1015032.27     21.062810       0.976890             1.266830  
+2    123780.22   1119816.92     24.675786       0.998575             1.327594  
+3    257032.07   1214774.94     27.139908       0.993703             1.372493  
+4    257032.07   1199901.61     28.412764       0.983556             1.396897  
+2025-07-27 13:14:48,008 - INFO - Ingesting data...
+2025-07-27 13:14:48,016 - INFO - Started ingesting `vendor_sales_summary` from        VendorNumber                VendorName  Brand  \
+0              1128         BROWN-FORMAN CORP   1233   
+1              4425     MARTIGNETTI COMPANIES   3405   
+2             17035         PERNOD RICARD USA   8068   
+3              3960  DIAGEO NORTH AMERICA INC   4261   
+4              3960  DIAGEO NORTH AMERICA INC   3545   
+...             ...                       ...    ...   
+10687          9815            WINE GROUP INC   8527   
+10688          8004            SAZERAC CO INC   5683   
+10689          3924  HEAVEN HILL DISTILLERIES   9123   
+10690          3960  DIAGEO NORTH AMERICA INC   6127   
+10691          7245      PROXIMO SPIRITS INC.   3065   
+
+                       Description  PurchasePrice  Actualprice  Volume  \
+0          Jack Daniels No 7 Black          26.27        36.99  1750.0   
+1            Tito's Handmade Vodka          23.19        28.99  1750.0   
+2                 Absolut 80 Proof          18.24        24.99  1750.0   
+3           Capt Morgan Spiced Rum          16.17        22.99  1750.0   
+4                  Ketel One Vodka          21.89        29.99  1750.0   
+...                            ...            ...          ...     ...   
+10687  Concannon Glen Ellen Wh Zin           1.32         4.99   750.0   
+10688  Dr McGillicuddy's Apple Pie           0.39         0.49    50.0   
+10689              Deep Eddy Vodka           0.74         0.99    50.0   
+10690  The Club Strawbry Margarita           1.47         1.99   200.0   
+10691     Three Olives Grape Vodka           0.71         0.99    50.0   
+
+       Totalpurchasequan  Totalpurchasedoll  totalsalequantity  \
+0                 145080         3811251.60           142049.0   
+1                 164038         3804041.22           160247.0   
+2                 187407         3418303.68           187140.0   
+3                 201682         3261197.94           200412.0   
+4                 138109         3023206.01           135838.0   
+...                  ...                ...                ...   
+10687                  2               2.64                5.0   
+10688                  6               2.34              134.0   
+10689                  2               1.48                2.0   
+10690                  1               1.47               72.0   
+10691                  1               0.71               86.0   
+
+       totalsalesdoll  totalsaleprice  totalsaleexcise  freightcost  \
+0          5101919.51       672819.31        260999.20     68601.68   
+1          4819073.49       561512.37        294438.66    144929.24   
+2          4538120.60       461140.15        343854.07    123780.22   
+3          4475972.88       420050.01        368242.80    257032.07   
+4          4223107.62       545778.28        249587.83    257032.07   
+...               ...             ...              ...          ...   
+10687           15.95           10.96             0.55     27100.41   
+10688           65.66            1.47             7.04     50293.62   
+10689            1.98            0.99             0.10     14069.87   
+10690          143.28           77.61            15.12    257032.07   
+10691           85.14           33.66             4.46     38994.78   
+
+       Grossprofit  Profitmargin  Stockturnover  Saletopurchaseratio  
+0       1290667.91     25.297693       0.979108             1.338647  
+1       1015032.27     21.062810       0.976890             1.266830  
+2       1119816.92     24.675786       0.998575             1.327594  
+3       1214774.94     27.139908       0.993703             1.372493  
+4       1199901.61     28.412764       0.983556             1.396897  
+...            ...           ...            ...                  ...  
+10687        13.31     83.448276       2.500000             6.041667  
+10688        63.32     96.436186      22.333333            28.059829  
+10689         0.50     25.252525       1.000000             1.337838  
+10690       141.81     98.974037      72.000000            97.469388  
+10691        84.43     99.166079      86.000000           119.915493  
+
+[10692 rows x 18 columns]
+2025-07-27 13:14:48,017 - ERROR - \u274c Error ingesting vendor_sales_summary: argument of type 'method' is not iterable
+2025-07-27 13:14:48,017 - INFO - Completed
